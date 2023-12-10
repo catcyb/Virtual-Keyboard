@@ -1,4 +1,4 @@
-
+ 
 ![Downloads](https://img.shields.io/github/downloads/JehanPatel/Virtual-Keyboard/total) ![Contributors](https://img.shields.io/github/contributors/JehanPatel/Virtual-Keyboard?color=dark-green) ![Forks](https://img.shields.io/github/forks/JehanPatel/Virtual-Keyboard?style=social) ![Stargazers](https://img.shields.io/github/stars/JehanPatel/Virtual-Keyboard?style=social) ![Issues](https://img.shields.io/github/issues/JehanPatel/Virtual-Keyboard) 
 
 ## Table Of Contents
@@ -26,6 +26,7 @@ To get started, install the following modules onto your computer
 - `pip install cvzone`
 - `pip install opencv-python`
 - `pip install pynput`
+- `pip install mediapipe`
 
 ### Installation
 
